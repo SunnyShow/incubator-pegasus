@@ -7,7 +7,7 @@
 # ```
 
 
-FROM centos:7
+FROM centos:8
 
 MAINTAINER Wu Tao <wutao1@xiaomi.com>
 
